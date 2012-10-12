@@ -18,8 +18,8 @@
   </organization>
 
   <scm>
-    <connection></connection>
-    <developerConnection></developerConnection>
+    <connection>https://github.com/shopzilla/shopzilla-hadoop-pom.git</connection>
+    <developerConnection>git@github.com:shopzilla/shopzilla-hadoop-pom.git</developerConnection>
   </scm>
 
   <properties>
